@@ -1,2 +1,5 @@
 # wxsat-rx-automation
-Scripts for automating decoding and publishing imagery from weather satellites.
+
+Bash and Python scripts to automate receiving, decoding, 
+and publishing images downloaded from weather satellites.
+
